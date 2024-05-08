@@ -1,5 +1,12 @@
+import Header from '../components/Header';
+
 const Root = () => {
-  return <div>root</div>;
+  return (
+    <>
+      <Header />
+      <div>root</div>
+    </>
+  );
 };
 
 export default Root;
