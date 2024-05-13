@@ -1,6 +1,6 @@
 const TopNav = () => {
   return (
-    <div className='mr-16 flex  items-center'>
+    <div className='pr-4 flex items-center'>
       <div className='px-4'>
         <a href='/home'>Home</a>
       </div>
